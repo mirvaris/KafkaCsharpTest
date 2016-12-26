@@ -1,0 +1,11 @@
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\Kafka Test.exe.config
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\Kafka Test.exe
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\Kafka Test.pdb
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\obj\Debug\Kafka Test.exe
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\obj\Debug\Kafka Test.pdb
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\x86\librdkafka.dll
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\x86\zlib.dll
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\x64\librdkafka.dll
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\x64\zlib.dll
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\bin\Debug\RdKafka.dll
+c:\users\vace kupecioglu\documents\visual studio 2015\Projects\Kafka Test\Kafka Test\obj\Debug\Kafka Test.csprojResolveAssemblyReference.cache

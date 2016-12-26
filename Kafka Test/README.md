@@ -1,0 +1,1 @@
+﻿Simple project to test kafka instance.
